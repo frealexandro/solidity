@@ -1,0 +1,2 @@
+# solidity
+you will find different smart contracts  whit the perspectives fictions
